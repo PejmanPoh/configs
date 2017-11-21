@@ -1,0 +1,34 @@
+{
+  "filters": {
+    "domains": {
+      "video": [
+        "youtube.com",
+        "dailymotion.com",
+        "liveleak.com"
+      ],
+      "images": [
+        "imgur.com",
+        "i.imgur.com",
+        "i.reddit.com",
+        "i.redd.it"
+      ],
+      "audio": [
+        "soundcloud.com"
+      ]
+    }
+  },
+  "archive_time": {
+    "default_delay": 18,
+    "4chan": 12
+  },
+  "gifs": {
+    "no": [
+      "https://gfycat.com/TinyJoyousAnemone",
+      "https://gfycat.com/SilverKaleidoscopicAsp",
+      "https://gfycat.com/PowerlessLikableHarvestmouse",
+      "https://gfycat.com/HeavenlyElderlyHornet",
+      "https://gfycat.com/SerpentineHeartfeltLarva",
+      "https://gfycat.com/ThisVioletDugong"
+    ]
+  }
+}

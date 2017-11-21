@@ -1,0 +1,60 @@
+{
+  "subreddits": {
+    "DnDGreentext": {},
+    "gametales": {},
+    "blind": {},
+    "DescriptionPlease": {
+      "bypass_domain_filter": true
+    },
+    "rpghorrorstories": {},
+    "TheChurchOfRogers": {},
+    "kierra": {
+      "bypass_domain_filter": true
+    },
+    "BestOfReports": {},
+    "ScottishPeopleTwitter": {},
+    "TrashyText": {},
+    "ihavesex": {},
+    "me_irl": {
+      "upvote_filter": 7
+    },
+    "oldpeoplefacebook": {
+      "upvote_filter": 10
+    },
+    "trailerparkboys": {
+      "upvote_filter": 3
+    },
+    "4chan": {
+      "upvote_filter": 10
+    },
+    "cringepics": {
+      "upvote_filter": 5
+    },
+    "quityourbullshit": {
+      "upvote_filter": 5
+    },
+    "TrollXChromosomes": {
+      "upvote_filter": 3
+    },
+    "TrollYChromosome": {},
+    "Feminism": {},
+    "FacebookCringe": {},
+    "facebookdrama": {},
+    "ProgrammerHumor": {
+      "upvote_filter": 3
+    },
+    "insaneparents": {},
+    "CasualUK": {
+      "upvote_filter": 5
+    },
+    "NobodyAsked": {},
+    "comedyhomicide": {},
+    "iamverybadass": {
+      "upvote_filter": 5
+    },
+    "futurology": {
+      "active": false,
+      "bypass_domain_filter": true
+    }
+  }
+}
