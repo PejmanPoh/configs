@@ -55,6 +55,16 @@
     "futurology": {
       "active": false,
       "bypass_domain_filter": true
+    },
+    "badcode": {},
+    "ShitLiberalsSay": {
+      "upvote_filter": 7
+    },
+    "PRTwitter": {},
+    "NotHowDrugsWork": {},
+    "NotHowGirlsWork": {},
+    "therewasanattempt": {
+      "upvote_filter": 7
     }
   }
 }
