@@ -1,48 +1,54 @@
-We highly recommend using [oTranscribe](http://otranscribe.com/) to help you with this. Just give it the YouTube link to the audio you are transcribing and copy / paste your finished work to the comment fields. 
-
+**Audio Posts**
 ---
 
-**Audio Formatting:**
----
+**Important:** As always, when copying and pasting, remember to replace the prompts with their relevant information and content.
 
-Make a time mark anytime something happens to break the flow of audio, like a speaker finishing a paragraph or something happening where it makes logical sense to insert a break. Timestamps are enclosed (by parentheses), dialogue is unbounded, and anything other than verbal dialogue is enclosed [in brackets].
+Format:
 
-For audio *shorter* than one hour:
+    *Audio Transcription:*
 
-Time: minute:second --> (00:00)
+    ---
 
-For audio *longer* than one hour:
+    (00:00)  
+    Text.
 
-Time: hour:minute:second --> (00:00:00)
-
----
+    ---
 
     ^^I'm&#32;a&#32;human&#32;volunteer&#32;content&#32;transcriber&#32;for&#32;Reddit.&#32;[If&#32;&#32;you'd&#32;like&#32;more&#32;information&#32;on&#32;what&#32;we&#32;do&#32;and&#32;why&#32;we&#32;do&#32;it,&#32;click&#32;here!](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
 
 ---
 
-NOTE: There are **two spaces** after the timestamp, then a **return/enter** to make it look:
+Your final transcription will look like this:
 
+*Audio Transcription:*
+
+---
+
+(00:00)  
+Text.
+
+---
+
+^^I'm&#32;a&#32;human&#32;volunteer&#32;content&#32;transcriber&#32;for&#32;Reddit.&#32;[If&#32;&#32;you'd&#32;like&#32;more&#32;information&#32;on&#32;what&#32;we&#32;do&#32;and&#32;why&#32;we&#32;do&#32;it,&#32;click&#32;here!](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
+
+---
+
+**Useful Notes:**
+
+* For audio shorter than one hour  
+ Time: mm:ss --> (00:00)
+* For audio longer than one hour:  
+ Time: hh:mm:ss --> (00:00:00)
+* Make a new timestamp anytime something happens to break the flow of audio, like a presenter finishing a paragraph, a large cut in the video, or something similar. You don't have to do it for every single line of dialogue. 
+* There are **two spaces** after the timestamp, then a **return/enter** to make it look:
+ 
 like  
 this
 
-instead of:
+* ...instead of:
 
 like
 
 this
 
----
-
-
-*EXAMPLE*
-
-(00:00)   
-Hello! I'm going to be speaking to you today about the benefits of Vim, Emacs, and why having a flame war between the two is both totally unnecessary and 100% necessary... *all at the same time*. [scattered laughter]
-
-(00:21)  
-We'll also be taking a look at the topics you see on the screen...
-
-...etc.
-
-*END EXAMPLE*
+* We **highly recommend** using [oTranscribe](http://otranscribe.com/) to help you with transcribing videos. Just give it the file or YouTube link to the video you are transcribing and copy / paste your finished work to the comment fields. 

@@ -24,9 +24,6 @@
     "trailerparkboys": {
       "upvote_filter": 3
     },
-    "4chan": {
-      "upvote_filter": 10
-    },
     "cringepics": {
       "upvote_filter": 5
     },
@@ -65,6 +62,24 @@
     "NotHowGirlsWork": {},
     "therewasanattempt": {
       "upvote_filter": 7
+    },
+    "PandR": {
+      "upvote_filter": 3
+    },
+    "getmotivated": {
+      "upvote_filter": 7,
+      "active": false,
+      "no_link_header": true
     }
+  },
+  "archive_time": {
+    "default_delay": 18
+  },
+  "example_subreddit": {
+    "bypass_domain_filter": false,
+    "upvote_filter": 5,
+    "active": true,
+    "no_link_header": true,
+    "archive_time": 18
   }
 }
